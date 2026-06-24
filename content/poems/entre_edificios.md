@@ -10,7 +10,7 @@ Na estepe da montanha
 Junto à nascente
 
 Poetizar que nem um bhikku ou algo do tipo  
-Mas não posso
+Mas não posso...  
 Minha descrição de mundo  
 Não contem esses elementos
 

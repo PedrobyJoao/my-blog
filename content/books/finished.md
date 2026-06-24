@@ -26,6 +26,7 @@ weight = 1
 - Knulp, Hermann Hesse
 - Siddhartha, Hermann Hesse
 - Steppenwolf, Hermann Hesse
+- The Glass Bead Game, Hermann Hesse
 - The Metamorphosis, Franz Kafka
 - Notes from the Underground, Fyodor Dostoevsky
 - The Unbearable Lightness of Being, Milan Kundera

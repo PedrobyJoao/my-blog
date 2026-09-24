@@ -23,6 +23,8 @@ weight = 1
 ### Others:
 
 - The old man and the sea, Ernest Hemingway
+- Thus Spoke Zarathustra
+- Genealogy of Morality
 
 ### Biology, Psychology, Behavioral Science
 
@@ -49,3 +51,21 @@ weight = 1
 
 - Capitães da Areia
 - O alquimista
+
+### friends recommendations:
+
+- The Pearl, John Steinbeck (guga's)
+
+Sh's:
+
+- Thus Spoke Zarathustra
+- Genealogy of Morality
+- Immortality, Milan Kundera
+- Life is elsewhere, Milan Kundera
+- Slowness, Milan Kundera
+- The Secret of secrets,Osho
+- Norwegian wood, Murakami
+- Kafka on the shore, Murakami
+- Zorba the Greek, Nikos Kazantzakis
+- Midnight library, Matt Haig
+- Crime and punishment

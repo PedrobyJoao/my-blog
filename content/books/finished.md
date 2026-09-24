@@ -46,6 +46,7 @@ weight = 1
 - The myth of Sisyphus, Albert Camus
 - The Power of Now, Eckhart Tolle
 - On the Shortness of Life, Seneca
+- A gente mira no amor e acerta na solidao, Ana Suy
 
 ### How to survive in this modern world as an ape
 
@@ -61,9 +62,11 @@ weight = 1
 - Born to Run, Christopher McDougall
 - On the Road, Jack Kerouac
 - Dharma Bums, Jack Kerouac
+- The Electric Kool-Aid Acid Test, Tom Wolfe
 - Surely you're Joking, Mr Feynman, Richard P. Feynman
 - Can't Hurt Me, David Goggins
 - A Long Way Gone, Ishmael Beah
+- How Music Works, David Byrne
 
 ### Computer Science
 

@@ -22,6 +22,7 @@ weight = 1
 
 ### Novels: make you think about life
 
+- O Alquimista, Paulo Coelho
 - Demian, Hermann Hesse
 - Knulp, Hermann Hesse
 - Siddhartha, Hermann Hesse

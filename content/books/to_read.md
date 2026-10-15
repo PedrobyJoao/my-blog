@@ -4,7 +4,7 @@ draft = false
 weight = 1
 +++
 
-### Fictions on human psycology and society
+### Novels on human psycology and society
 
 - Hermann Hesse books that I didn't read yet
 - Fiodor Dostoievsky books that I didn't read yet
@@ -19,6 +19,7 @@ weight = 1
 - The way of Zend
 - Being and Time, Kierkegaard
 - Man's search for meaning
+- The Meaning of It All - Richard P Feynman
 
 ### Others:
 
@@ -69,3 +70,15 @@ Sh's:
 - Zorba the Greek, Nikos Kazantzakis
 - Midnight library, Matt Haig
 - Crime and punishment
+
+### Mindfulness
+
+Thich Nhat Hanh (I won't necessarily read all):
+
+- Breathe! You Are Alive
+- Cultivating the Mind of Love (with personal love story)
+- The Blooming of a lotus
+- The Sun My Heart
+- Old Path White Clouds
+- The Art of Living
+- Joyfully Together (guide to build community)

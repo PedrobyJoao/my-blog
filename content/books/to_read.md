@@ -51,7 +51,6 @@ weight = 1
 ### BR/PT Literature
 
 - Capitães da Areia
-- O alquimista
 
 ### friends recommendations:
 
@@ -67,7 +66,7 @@ Sh's:
 - The Secret of secrets,Osho
 - Norwegian wood, Murakami
 - Kafka on the shore, Murakami
-- Zorba the Greek, Nikos Kazantzakis
+- ~Zorba the Greek, Nikos Kazantzakis~
 - Midnight library, Matt Haig
 - Crime and punishment
 

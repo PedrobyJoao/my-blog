@@ -8,6 +8,12 @@ weight = 1
 
 - Hermann Hesse books that I didn't read yet
 - Fiodor Dostoievsky books that I didn't read yet
+- The old man and the sea, Ernest Hemingway
+- Thus Spoke Zarathustra
+- Genealogy of Morality
+- East of Eden, Steinbeck
+- The house in the cerulean sea
+- The cook tour, Anthony Bourdain
 
 ### About life and reality
 
@@ -20,12 +26,6 @@ weight = 1
 - Being and Time, Kierkegaard
 - Man's search for meaning
 - The Meaning of It All - Richard P Feynman
-
-### Others:
-
-- The old man and the sea, Ernest Hemingway
-- Thus Spoke Zarathustra
-- Genealogy of Morality
 
 ### Biology, Psychology, Behavioral Science
 

@@ -32,6 +32,7 @@ weight = 1
 - Digital Minimalism
 - Thinking, Fast and Slow
 - The Righteous Mind
+- Spark: The Life of Electricity and the Electricity of Life
 
 ### Sci-fi:
 
@@ -43,6 +44,10 @@ weight = 1
 - The Diamond Age
 - Permutation City
 - Blindsight
+
+### Nature
+
+Bill Mollison books
 
 ### Classics
 
